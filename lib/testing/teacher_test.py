@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from teacher import Teacher
+from lib.teacher.teacher import Teacher
 from user import User
 
 my_teacher = Teacher("My", "Teacher")
